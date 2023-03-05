@@ -1,2 +1,2 @@
-# Madrasah-Managemente-System
+# Madrasah-Managemente
 ASP.NET Madrasah Managemente System
